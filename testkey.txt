@@ -1,0 +1,8 @@
+crazy, 3
+love, 5
+stressed, 1
+life, 4
+wish, 2
+hate, 1
+heartbreak, 1
+lonely, 1
